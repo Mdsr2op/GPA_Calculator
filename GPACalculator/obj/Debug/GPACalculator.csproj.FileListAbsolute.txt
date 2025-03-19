@@ -1,1 +1,9 @@
 c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csprojResolveAssemblyReference.cache
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Form1.resources
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.Cache
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+c:\users\mdsr\onedrive\download\documents\visual studio 2012\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
